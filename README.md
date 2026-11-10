@@ -19,6 +19,7 @@ These are approved project design requirements, **not yet implemented technical 
 - [Documentation index](docs/README.md)
 - [Project governance and hard rules](governance/PROJECT_RULES.md)
 - [Scientific thesis and experiment catalog](docs/RESEARCH.md)
+- [GF-001: first falsifiable thesis and experiment protocol](docs/EXPERIMENT_GF-001.md)
 - [UAF v1.7 architecture application](docs/ARCHITECTURE.md)
 - [Verification and logical consistency](docs/VERIFICATION.md)
 - [JEV assessment and proposed pilot](docs/JEV.md)
